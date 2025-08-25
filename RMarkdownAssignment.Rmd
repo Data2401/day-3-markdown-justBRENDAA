@@ -1,14 +1,9 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Brenda Luis"
 date: "Data 2401"
 output: html_document
 ---
-
-
-```{r}
-print("Something")
-```
 
 
 ```{r setup, include=FALSE}
@@ -39,4 +34,52 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
+
+# Your work here
+## Wise words 
+> "Losing a rock is better than never having a rock" - Esquie
+
+[Learn about Esquie here](https://clair-obscur.fandom.com/wiki/Esquie)
  
+## My semester
+
+|Course number | Course Title | Instructor|
+|:-------------|:-------------|:----------|
+**DATA 2401**    | *Data Science 1* | Dr. Katherine Shoemaker
+**CS 4304**        | *Programming Language Concepts* | Dr. Emre Yilmaz
+**CS 4395**        | *Senior Project* | Dr. Azadeh Izadi
+
+## I recommend 
+
+#### D4VD (David Anthony Burke)
+
+Example Lyrics: One More Dance
+
+[Verse 1]
+The heavier the rain\
+The heavier the snow\
+The heavier the weight\
+After watching you go\
+The smile on your face\
+As the music starts to play\ 
+To empty your brain, oh\
+A form of escape, oh\
+\
+[Chorus]\
+Dance with your eyes wide shut\
+Forty degrees 'round us\
+Holding you closer than before\
+The only way I'm letting you go\ 
+Is if I can't see my hands\
+If my heart beats one less\
+Faster than it's ever before\
+All that I ask of you is one more dance\
+
+
+**Top Songs: **
+
+* Here With Me 
+* One More Dance 
+* Friend Again
+* Romantic Homicide 
+* Crashing (with Kali Uchis)
